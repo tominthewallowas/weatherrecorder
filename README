@@ -1,0 +1,8 @@
+I use this Python app to record daily weather observations
+that I upload to my website. I use wxPython for the gui
+and some classes I created to add support.
+
+To do:
+
+Add the class files I use in several of my projects
+to a GitHub repository.
